@@ -5,6 +5,9 @@
 ## 模型训练效果
 ![image](./image/rf.png)
 
+## 模型训练报告
+![image](./image/report.png)
+
 ## 密码爆破测试
 ![image](./image/boom.png)
 
